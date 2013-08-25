@@ -1,0 +1,5 @@
+## Interface: 50300
+## Title: Itafroma Gems
+## Notes: "Checks gems."
+## Author: Mark Trapp
+Itafroma_Gems.lua
