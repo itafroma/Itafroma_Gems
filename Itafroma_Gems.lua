@@ -19,25 +19,25 @@ SlashCmdList["ITAFROMA_GEMS"] = function (msg, editbox)
     gems["blue"] = {
         ["name"] = "River's Heart",
         ["color"] = {0, .47, 1},
-        ["total"] = 5,
+        ["total"] = 4,
         ["known"] = 0,
     }
     gems["red"] = {
         ["name"] = "Primordial Ruby",
         ["color"] = {1, 0, 0},
-        ["total"] = 6,
+        ["total"] = 5,
         ["known"] = 0,
     }
     gems["yellow"] = {
         ["name"] = "Sun's Radiance",
         ["color"] = {1, 1, 0},
-        ["total"] = 8,
+        ["total"] = 5,
         ["known"] = 0,
     }
     gems["orange"] = {
         ["name"] = "Vermilion Onyx",
         ["color"] = {1, 0.5, 0},
-        ["total"] = 25,
+        ["total"] = 22,
         ["known"] = 0,
     }
     gems["purple"] = {
@@ -49,7 +49,7 @@ SlashCmdList["ITAFROMA_GEMS"] = function (msg, editbox)
     gems["green"] = {
         ["name"] = "Wild Jade",
         ["color"] = {0, 1, 0},
-        ["total"] = 20,
+        ["total"] = 18,
         ["known"] = 0,
     }
 
