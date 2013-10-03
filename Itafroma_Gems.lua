@@ -52,6 +52,12 @@ SlashCmdList["ITAFROMA_GEMS"] = function (msg, editbox)
         ["total"] = 18,
         ["known"] = 0,
     }
+    gems["diamond"] = {
+        ["name"] = "Primal Diamond",
+        ["color"] = {1, 1, 1},
+        ["total"] = 14,
+        ["known"] = 0,
+    }
 
     local known = 0
     for i = 1, skill_count do
