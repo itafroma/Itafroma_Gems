@@ -77,7 +77,7 @@ SlashCmdList["ITAFROMA_GEMS"] = function (msg, editbox)
     DEFAULT_CHAT_FRAME:AddMessage("Number of gem recipes known: " .. known .. "/" .. total)
 
     for color, info in pairs(gems) do
-        local message = info["name"] .. ": " .. info["known"] .. "/" .. info["total"]
+        local message = "—" .. info["name"] .. ": " .. info["known"] .. "/" .. info["total"]
         DEFAULT_CHAT_FRAME:AddMessage(message, info["color"][1], info["color"][2], info["color"][3])
     end
 end
