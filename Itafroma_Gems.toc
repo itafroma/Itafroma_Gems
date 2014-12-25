@@ -1,6 +1,6 @@
-## Interface: 50400
+## Interface: 60000
 ## Title: Itafroma Gems
 ## Notes: "Determines how many Mists of Pandaria gem recipes the player knows."
 ## Author: Mark Trapp
-## Version: 5.4.0
+## Version: 6.0.0
 Itafroma_Gems.lua
