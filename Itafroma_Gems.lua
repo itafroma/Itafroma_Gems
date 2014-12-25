@@ -1,6 +1,6 @@
 --
 -- @file
--- Checks gems.
+-- Determines how many Mists of Pandaria gem recipes the player knows.
 --
 
 SlashCmdList["ITAFROMA_GEMS"] = function (msg, editbox)

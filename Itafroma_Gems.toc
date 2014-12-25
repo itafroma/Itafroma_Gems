@@ -1,5 +1,5 @@
 ## Interface: 50400
 ## Title: Itafroma Gems
-## Notes: "Checks gems."
+## Notes: "Determines how many Mists of Pandaria gem recipes the player knows."
 ## Author: Mark Trapp
 Itafroma_Gems.lua
